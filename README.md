@@ -10,8 +10,3 @@
   ```
   achilleas2942@gmail.com
   ```
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/achilleas2942/achilleas2942/blob/main/snake.yml" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/achilleas2942/achilleas2942/blob/main/snake.yml" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>

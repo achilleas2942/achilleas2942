@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-👨‍🎓 My name is Achilleas, and I am **Researcher** at Ericsson, Sweden. I am interested in robotics, networked control systems and edge computing. 👨‍🔧
+👨‍🎓 My name is Achilleas, and I am a **Researcher** at Ericsson, Sweden. I am interested in robotics, networked control systems and edge computing. 👨‍🔧
 
 - 🦾 I’m currently working on **Networked Controlled Autonomous Mobile Robots** at Ericsson Research.
 - 🖥️ I’m mainly working with **ROS 1 / ROS 2** | **Python** | **C++** | **Docker** | **Kubernetes**.
